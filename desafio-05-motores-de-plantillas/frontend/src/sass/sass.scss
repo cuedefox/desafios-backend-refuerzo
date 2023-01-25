@@ -1,0 +1,18 @@
+.product {
+    background-color: aquamarine;
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    img {
+        width: 5em;
+        height: 5em;
+        margin: 1em;
+    }
+    h4 {
+
+    }
+    p {
+        font-weight: bold;
+        color: crimson;
+    }
+}
