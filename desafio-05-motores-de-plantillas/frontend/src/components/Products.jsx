@@ -18,7 +18,7 @@ const Products = () => {
     return <>
     <h2>Productos</h2>
     {
-        products ? products.map(item => {return <ProductItem item={item} />}) : <h2>No hay productos</h2>
+      products ? products.map(item => {return <ProductItem item={item} />}) : <h2>no hay productos</h2>
     }
     <Link to={"/"}><button>Volver a formulario</button></Link>
     </>
