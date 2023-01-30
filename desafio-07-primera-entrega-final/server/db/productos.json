@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "sasasa",
+    "descripcion": "asasas",
+    "codigo": 12121,
+    "foto": "http://www.rodrigovergara.com.ar",
+    "precio": 701,
+    "stock": 30,
+    "id": 1,
+    "timestamp": 1675065337532
+  },
+  {
+    "nombre": "sasasa",
+    "descripcion": "asasas",
+    "codigo": 12121,
+    "foto": "http://www.rodrigovergara.com.ar",
+    "precio": 701,
+    "stock": 30,
+    "id": 3,
+    "timestamp": 1675065348151
+  },
+  {
+    "nombre": "sasasa",
+    "descripcion": "asasas",
+    "codigo": 12121,
+    "foto": "http://www.rodrigovergara.com.ar",
+    "precio": 701,
+    "stock": 30,
+    "id": 4,
+    "timestamp": 1675068408541
+  },
+  {
+    "nombre": "sasasa",
+    "descripcion": "asasas",
+    "codigo": 12121,
+    "foto": "http://www.rodrigovergara.com.ar",
+    "precio": 701,
+    "stock": 30,
+    "id": 5,
+    "timestamp": 1675068474975
+  }
+]
