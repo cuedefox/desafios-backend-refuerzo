@@ -1,8 +1,9 @@
 import React from "react";
 
 const MessageItem = ({item}) => {
-    return <div>
-        <p>{`${item.mail} dice: ${item.message} // ${item.date}`}</p>
+    return <div className="message-item">
+        <img src={item.author.avatar} alt={`foto de ${item.author.alias}`} />
+        <p>{`${item.author.alias} dice: ${item.text} // ${item.author.id}`}</p>
     </div>
 }
 

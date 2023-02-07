@@ -12,7 +12,7 @@ const Products = () => {
     return <div className="products">
     <h2>Productos</h2>
     {
-      products?.length > 0 ? products.map(item => {return <ProductItem item={item} />}) : <h2>no hay productos</h2>
+      products?.length > 0 ? products.map(item => {return <ProductItem key={`item-${item.id}`} item={item} />}) : <h2>no hay productos</h2>
     }
     </div>
 }

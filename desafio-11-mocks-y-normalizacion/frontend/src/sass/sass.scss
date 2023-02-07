@@ -83,3 +83,12 @@ main {
         justify-content: center;
     }
 }
+.message-item {
+    display: flex;
+    background-color: aliceblue;
+    font-weight: bold;
+    img {
+        width: 5em;
+        height: 5em;
+    }
+}
